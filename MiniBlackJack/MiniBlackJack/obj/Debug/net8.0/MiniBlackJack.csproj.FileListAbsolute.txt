@@ -1,0 +1,14 @@
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\bin\Debug\net8.0\MiniBlackJack.exe
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\bin\Debug\net8.0\MiniBlackJack.deps.json
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\bin\Debug\net8.0\MiniBlackJack.runtimeconfig.json
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\bin\Debug\net8.0\MiniBlackJack.dll
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\bin\Debug\net8.0\MiniBlackJack.pdb
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\obj\Debug\net8.0\MiniBlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\obj\Debug\net8.0\MiniBlackJack.AssemblyInfoInputs.cache
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\obj\Debug\net8.0\MiniBlackJack.AssemblyInfo.cs
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\obj\Debug\net8.0\MiniBlackJack.csproj.CoreCompileInputs.cache
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\obj\Debug\net8.0\MiniBlackJack.dll
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\obj\Debug\net8.0\refint\MiniBlackJack.dll
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\obj\Debug\net8.0\MiniBlackJack.pdb
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\obj\Debug\net8.0\MiniBlackJack.genruntimeconfig.cache
+C:\Users\alwdopalsddlawdol\source\repos\MiniBlackJack\MiniBlackJack\obj\Debug\net8.0\ref\MiniBlackJack.dll
