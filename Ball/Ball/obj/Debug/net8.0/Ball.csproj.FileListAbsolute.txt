@@ -1,0 +1,14 @@
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\bin\Debug\net8.0\Ball.exe
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\bin\Debug\net8.0\Ball.deps.json
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\bin\Debug\net8.0\Ball.runtimeconfig.json
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\bin\Debug\net8.0\Ball.dll
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\bin\Debug\net8.0\Ball.pdb
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\obj\Debug\net8.0\Ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\obj\Debug\net8.0\Ball.AssemblyInfoInputs.cache
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\obj\Debug\net8.0\Ball.AssemblyInfo.cs
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\obj\Debug\net8.0\Ball.csproj.CoreCompileInputs.cache
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\obj\Debug\net8.0\Ball.dll
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\obj\Debug\net8.0\refint\Ball.dll
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\obj\Debug\net8.0\Ball.pdb
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\obj\Debug\net8.0\Ball.genruntimeconfig.cache
+C:\Users\alwdopalsddlawdol\source\repos\Ball\Ball\obj\Debug\net8.0\ref\Ball.dll
