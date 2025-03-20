@@ -1,0 +1,14 @@
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\bin\Debug\net8.0\TimeGame.exe
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\bin\Debug\net8.0\TimeGame.deps.json
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\bin\Debug\net8.0\TimeGame.runtimeconfig.json
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\bin\Debug\net8.0\TimeGame.dll
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\bin\Debug\net8.0\TimeGame.pdb
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\obj\Debug\net8.0\TimeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\obj\Debug\net8.0\TimeGame.AssemblyInfoInputs.cache
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\obj\Debug\net8.0\TimeGame.AssemblyInfo.cs
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\obj\Debug\net8.0\TimeGame.csproj.CoreCompileInputs.cache
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\obj\Debug\net8.0\TimeGame.dll
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\obj\Debug\net8.0\refint\TimeGame.dll
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\obj\Debug\net8.0\TimeGame.pdb
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\obj\Debug\net8.0\TimeGame.genruntimeconfig.cache
+C:\Users\alwdopalsddlawdol\source\repos\TimeGame\TimeGame\obj\Debug\net8.0\ref\TimeGame.dll
