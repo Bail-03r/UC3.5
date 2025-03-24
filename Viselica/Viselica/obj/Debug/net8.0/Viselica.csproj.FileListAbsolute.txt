@@ -1,0 +1,14 @@
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\bin\Debug\net8.0\Viselica.exe
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\bin\Debug\net8.0\Viselica.deps.json
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\bin\Debug\net8.0\Viselica.runtimeconfig.json
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\bin\Debug\net8.0\Viselica.dll
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\bin\Debug\net8.0\Viselica.pdb
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\obj\Debug\net8.0\Viselica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\obj\Debug\net8.0\Viselica.AssemblyInfoInputs.cache
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\obj\Debug\net8.0\Viselica.AssemblyInfo.cs
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\obj\Debug\net8.0\Viselica.csproj.CoreCompileInputs.cache
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\obj\Debug\net8.0\Viselica.dll
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\obj\Debug\net8.0\refint\Viselica.dll
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\obj\Debug\net8.0\Viselica.pdb
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\obj\Debug\net8.0\Viselica.genruntimeconfig.cache
+C:\Users\alwdopalsddlawdol\source\repos\Viselica\Viselica\obj\Debug\net8.0\ref\Viselica.dll
