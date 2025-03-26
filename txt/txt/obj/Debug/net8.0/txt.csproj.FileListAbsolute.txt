@@ -1,0 +1,14 @@
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\obj\Debug\net8.0\txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\obj\Debug\net8.0\txt.AssemblyInfoInputs.cache
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\obj\Debug\net8.0\txt.AssemblyInfo.cs
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\obj\Debug\net8.0\txt.csproj.CoreCompileInputs.cache
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\bin\Debug\net8.0\txt.exe
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\bin\Debug\net8.0\txt.deps.json
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\bin\Debug\net8.0\txt.runtimeconfig.json
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\bin\Debug\net8.0\txt.dll
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\bin\Debug\net8.0\txt.pdb
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\obj\Debug\net8.0\txt.dll
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\obj\Debug\net8.0\refint\txt.dll
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\obj\Debug\net8.0\txt.pdb
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\obj\Debug\net8.0\txt.genruntimeconfig.cache
+C:\Users\alwdopalsddlawdol\source\repos\txt\txt\obj\Debug\net8.0\ref\txt.dll
